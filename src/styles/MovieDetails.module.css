@@ -1,0 +1,24 @@
+.movieDetails {
+    padding: 20px;
+}
+
+.movieDetails h1 {
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+.movieDetails p {
+    font-size: 1.2em;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.movieDetails img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.movieDetails .videoPlayer {
+    margin-top: 20px;
+}
